@@ -23,7 +23,7 @@ logs/
 *.log
 
 # Backups
-backups/*.zip
+backups/backups/*.zip
 
 # VS Code
 .vscode/
